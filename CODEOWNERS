@@ -1,0 +1,7 @@
+# Eigenaar voor alles
+*           @org/team-backend
+
+# Specifieke paden
+/docs/      @org/tech-writers
+/frontend/  @gebruikersnaam
+infra/**    @org/devops-team
